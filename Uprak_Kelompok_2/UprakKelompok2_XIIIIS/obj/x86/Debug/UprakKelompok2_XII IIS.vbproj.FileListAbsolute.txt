@@ -1,0 +1,9 @@
+C:\Users\User\Documents\File Visual Basic\UprakKelompok2_XII IIS\UprakKelompok2_XII IIS\bin\Debug\UprakKelompok2_XII IIS.exe
+C:\Users\User\Documents\File Visual Basic\UprakKelompok2_XII IIS\UprakKelompok2_XII IIS\bin\Debug\UprakKelompok2_XII IIS.pdb
+C:\Users\User\Documents\File Visual Basic\UprakKelompok2_XII IIS\UprakKelompok2_XII IIS\bin\Debug\UprakKelompok2_XII IIS.xml
+C:\Users\User\Documents\File Visual Basic\UprakKelompok2_XII IIS\UprakKelompok2_XII IIS\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Documents\File Visual Basic\UprakKelompok2_XII IIS\UprakKelompok2_XII IIS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Documents\File Visual Basic\UprakKelompok2_XII IIS\UprakKelompok2_XII IIS\obj\x86\Debug\UprakKelompok2_XII IIS.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\File Visual Basic\UprakKelompok2_XII IIS\UprakKelompok2_XII IIS\obj\x86\Debug\UprakKelompok2_XII IIS.exe
+C:\Users\User\Documents\File Visual Basic\UprakKelompok2_XII IIS\UprakKelompok2_XII IIS\obj\x86\Debug\UprakKelompok2_XII IIS.xml
+C:\Users\User\Documents\File Visual Basic\UprakKelompok2_XII IIS\UprakKelompok2_XII IIS\obj\x86\Debug\UprakKelompok2_XII IIS.pdb
